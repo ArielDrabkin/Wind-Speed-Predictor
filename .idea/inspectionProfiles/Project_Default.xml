@@ -1,0 +1,41 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="false" level="WEAK WARNING" enabled_by_default="false">
+      <Languages>
+        <language minSize="51" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="23">
+            <item index="0" class="java.lang.String" itemvalue="pywin32" />
+            <item index="1" class="java.lang.String" itemvalue="clyent" />
+            <item index="2" class="java.lang.String" itemvalue="navigator-updater" />
+            <item index="3" class="java.lang.String" itemvalue="scipy" />
+            <item index="4" class="java.lang.String" itemvalue="pycurl" />
+            <item index="5" class="java.lang.String" itemvalue="scikit-learn-intelex" />
+            <item index="6" class="java.lang.String" itemvalue="conda-build" />
+            <item index="7" class="java.lang.String" itemvalue="pycosat" />
+            <item index="8" class="java.lang.String" itemvalue="daal4py" />
+            <item index="9" class="java.lang.String" itemvalue="llvmlite" />
+            <item index="10" class="java.lang.String" itemvalue="mkl-fft" />
+            <item index="11" class="java.lang.String" itemvalue="tables" />
+            <item index="12" class="java.lang.String" itemvalue="anaconda-client" />
+            <item index="13" class="java.lang.String" itemvalue="conda-repo-cli" />
+            <item index="14" class="java.lang.String" itemvalue="TBB" />
+            <item index="15" class="java.lang.String" itemvalue="conda-verify" />
+            <item index="16" class="java.lang.String" itemvalue="cytoolz" />
+            <item index="17" class="java.lang.String" itemvalue="conda" />
+            <item index="18" class="java.lang.String" itemvalue="statsmodels" />
+            <item index="19" class="java.lang.String" itemvalue="anaconda-navigator" />
+            <item index="20" class="java.lang.String" itemvalue="sip" />
+            <item index="21" class="java.lang.String" itemvalue="datashape" />
+            <item index="22" class="java.lang.String" itemvalue="mkl-service" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
