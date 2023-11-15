@@ -42,4 +42,5 @@ To set up this project:
 Contributions to the project are welcome. Please feel free to fork the repository and submit pull requests.
 
 ## Acknowledgments
-Special thanks to the Israeli Meteorological Service for providing the data necessary for this project.
+![](https://www.adscientificindex.com/logos/27024.jpg)  
+Special thanks to the Israeli Meteorological Service for providing the data necessary for this project.  
