@@ -38,8 +38,13 @@ To set up this project:
 3. Place the IMS API token file in the repository folder.
 4. Run the main script to execute the project.
 
-## Exaple
+## Example
+### Forecasting 1-h windspeed with a baseline 3-days based moving average model 
 ![](https://cdn.myportfolio.com/32296834-5246-4001-b397-8c8d06fc8c2b/9d790755-0766-4d4b-8c7c-2e9a94b17991_rw_1920.png?h=3135a19aa56bc7b9b8bd42082726e290)
+### Forecasting 1-h windspeed with the CNN-LSTM model
+![](https://cdn.myportfolio.com/32296834-5246-4001-b397-8c8d06fc8c2b/2898362e-aaa1-4e9d-a659-e70c37c5a793_rw_1920.png?h=cf346179cf17f2171e38598d03244736)
+### Forecasting 24-h windspeed with the CNN-LSTM model
+![](https://cdn.myportfolio.com/32296834-5246-4001-b397-8c8d06fc8c2b/630da8fd-6c9e-42d9-80d9-53e99eb433ec_rw_1920.png?h=d22b035a3b6263d85fd0895742a64518)
 
 ## Contributing
 Contributions to the project are welcome. Please feel free to fork the repository and submit pull requests.
