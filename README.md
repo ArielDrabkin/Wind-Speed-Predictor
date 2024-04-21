@@ -38,6 +38,9 @@ To set up this project:
 3. Place the IMS API token file in the repository folder.
 4. Run the main script to execute the project.
 
+## Exaple
+![](https://cdn.myportfolio.com/32296834-5246-4001-b397-8c8d06fc8c2b/9d790755-0766-4d4b-8c7c-2e9a94b17991_rw_1920.png?h=3135a19aa56bc7b9b8bd42082726e290)
+
 ## Contributing
 Contributions to the project are welcome. Please feel free to fork the repository and submit pull requests.
 
